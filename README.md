@@ -1,2 +1,2 @@
-# nhuziki-expss-api
+# nhuzik-expss-api
 Nhizk - Portal do Artista Express API V2
